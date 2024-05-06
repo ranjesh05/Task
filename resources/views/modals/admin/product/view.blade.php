@@ -42,7 +42,7 @@
 
                     <div class="col-sm-4">
                         <label> Image {{$key+1}}</label>
-                        {{  $image }}
+                      
 <td class="text-center"><img src="{{  $image }}" style="height: 50px;width:50;"></td>
 
                     </div>
